@@ -1,12 +1,12 @@
-# Index
-- [Introduction] (#Introduction)
-- [Instructions] (#Instructions)
+## Index
+- [introduction] (#Introduction)
+- [instructions] (#Instructions)
 
-# Introduction
+## Introduction
 - MCBE-ZC Stands For Minecraft Bedrock Edition Zatick Client Which Was Made By Me
 - Each Branch Is A Version
 
-# Instructions
+## Instructions
 - Download The .mcaddon
 - Open The .mcaddon
 - Select Pack In Settings>Global Packs
