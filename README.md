@@ -1,6 +1,6 @@
 ## Index
-- [introduction] (#Introduction)
-- [instructions] (#Instructions)
+- [Introduction](#introduction)
+- [Instructions](#instructions)
 
 ## Introduction
 - MCBE-ZC Stands For Minecraft Bedrock Edition Zatick Client Which Was Made By Me
