@@ -9,6 +9,7 @@
 - Each Branch Is A Version
 
 ## Instructions
+- Goto Releases
 - Download The .mcaddon
 - Open The .mcaddon
 - Select Pack In Settings > Global Packs
