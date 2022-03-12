@@ -20,7 +20,7 @@
 - As It Is A **Resource Pack** It Can Only Add, Remove Or Change What A **Resource Pack** Can
 
 ## Versions
-- 1.0.0 For 1.17.11
+- 1.0.0 For 1.17.11 (Upload From iPad Needs Finishing)
 - 1.1.0 For 1.17.30
 - 1.2.0 For 1.17.30
 - 1.2.1 For 1.17.30
